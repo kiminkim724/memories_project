@@ -9,3 +9,7 @@ This project is a website that allows users to create memories with a title, mes
 ## How was this project created?
 
 This project was created using the MERN Stack, MongoDB was used to store the posts for each memory, Express for the backend to manage/create the posts, React for the front-end to display the posts.
+
+## Next steps
+
+The next steps would be to add authentication/users to the website so we can limit the number of likes on the posts.
