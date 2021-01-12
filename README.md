@@ -1,6 +1,6 @@
 # Memories Project
 
-This project was created by following this [tutorial](https://www.youtube.com/watch?v=aibtHnbeuio&t=7s).
+This project was created by following this [tutorial](https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu).
 
 ## What is this Project?
 
