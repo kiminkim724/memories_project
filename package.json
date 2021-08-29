@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eslint": "^7.19.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
